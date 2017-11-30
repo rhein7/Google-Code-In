@@ -1,2 +1,6 @@
 # Google-Code-In
-This is a test repository for the Google Code-In task of Sugar Labs. You can participate at codein.withgoogle.com
+Hello Sugar Labs!
+My name is Jan Hillesheim, I am from Germany and I am 16 years old. 
+Hopefully there are more exciting tasks like this one!
+
+Code in task: codein.withgoogle.com/tasks/5150005113389056/
